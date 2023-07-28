@@ -1,6 +1,6 @@
 name: phone_number_sugesstion
-description: A new Flutter project.
-homepage:
+description: A Flutter package that facilitates obtaining phone number hints using the Identity API. It allows developers to request a phone number hint from the user's identity and handle the result for seamless integration into Flutter applications.
+homepage: https://github.com/wattamwarp/phone_number_sugesstion
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
